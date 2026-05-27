@@ -1,0 +1,40 @@
+{
+  "name": "farelrequest",
+  "version": "1.0.0",
+  "description": "Modern lightweight HTTP client for Node.js",
+  "main": "index.js",
+  "type": "commonjs",
+
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+
+  "keywords": [
+    "http",
+    "https",
+    "request",
+    "fetch",
+    "api",
+    "client",
+    "farelrequest"
+  ],
+
+  "author": "Muhammad Farel",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayyzneverlus/farelrequest.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/rayyzneverlus/farelrequest/issues"
+  },
+
+  "homepage": "https://github.com/rayyzneverlus/farelrequest",
+
+  "engines": {
+    "node": ">=18"
+  }
+}
